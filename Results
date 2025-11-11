@@ -1,0 +1,7 @@
+a=int(input("enter your result"))
+if(a==90):
+ print ("wonder full resdult")
+elif(a==70):
+ print("good result")
+else:
+  print("go to home and sleep congrats")
