@@ -1,0 +1,5 @@
+alpha=str("enter your vowel alphabet")
+if alpha in "aeiou":
+  print ("the alphabet in vowel")
+else:
+   print("the alphabet in consonant")
