@@ -1,0 +1,9 @@
+a=int(input("enter the number of a"))
+b=int(input("ernter the number of b"))
+c=int(input("inter thew number of c"))
+if(a>b):
+   print("a is largest number")
+elif(b>c):
+ print(" b is  larhest number") 
+else:
+  print("c is largest numbee")  
