@@ -1,0 +1,2 @@
+for vasavi in range(10,30,2):
+ print(vasavi)
